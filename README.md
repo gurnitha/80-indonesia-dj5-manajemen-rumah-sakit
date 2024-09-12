@@ -5,3 +5,7 @@ Lokal:C:\Users\ING\Desktop\workspace\80-indonesia-dj5-manajemen-rumah-sakit
 
 
 ## 1. SETUP
+
+#### 1. Restrukturisasi file proyek dan membuat root direktori
+
+        modified:   README.md
